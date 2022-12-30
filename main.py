@@ -2,14 +2,12 @@
     Date : Fri Dec 30 2022 17:57:33 GMT+0530 (India Standard Time)
     Author : Suman Gurung
     Description : Pong Game in Python using pygame module
-
 """
 
 import pygame
 pygame.init()
 
 # CONSTANTS
-
 # window dimension 
 WIDTH , HEIGHT = 700 , 500
 
