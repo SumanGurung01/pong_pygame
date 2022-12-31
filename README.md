@@ -1,6 +1,6 @@
 # Pong in Python (v1)
 Implementation of pong game using pygame module
-
+- play against another player
 - [pong v2](https://github.com/SumanGurung01/pong_pygame_v2.git)
 
 ## Demo
